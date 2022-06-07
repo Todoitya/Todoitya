@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Todoitya
+- 👀 I’m interested in Blockchain
+- 🌱 I’m currently learning solidity
